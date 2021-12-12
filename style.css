@@ -2,7 +2,7 @@ body{
      background-image: linear-gradient(to right top,pink,yellow);
 }
 #h1{
-    color:#ff0000;
+    color:purple;
     font-size: 70px;
     text-shadow: 6px 6px orange;
 }
@@ -31,9 +31,7 @@ body{
 #whole{
      width: 1200px;
      height:1750px;
-     padding: 5px;
      border: 7px dashed black;
-     margin: 0;
 }
 #profitofyoga{
      color:red;
