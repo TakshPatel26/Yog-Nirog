@@ -1,0 +1,52 @@
+body{
+     background-image: linear-gradient(to right top,pink,yellow);
+}
+#h1{
+    color:#ff0000;
+    font-size: 70px;
+    text-shadow: 6px 6px orange;
+}
+#h3{
+     color:blue;
+}
+#avatar{
+     border-radius: 50%;
+}
+#div{
+     width: 750px;
+     height:210px;
+     padding: 0.5px;
+     border: 6px solid black;
+     margin: 0;
+}
+#opendays{
+     color:cornflowerblue;
+}
+#opentimes{
+     color:darkgreen;
+}
+#contact{
+     color:crimson;
+}
+#whole{
+     width: 1700px;
+     height:1750px;
+     padding: 5px;
+     border: 7px dashed black;
+     margin: 0;
+}
+#profitofyoga{
+     color:red;
+     font-size: 30px;
+}
+#h2{
+     color:blue;
+}
+#vrukshasan{
+     width:170px;
+     height:200px;
+}
+#halasana{
+     width:100px;
+     height:100px;
+}
