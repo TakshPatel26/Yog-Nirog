@@ -30,7 +30,7 @@ body{
 }
 #whole{
      width: 1100px;
-     height:1800px;
+     height:2000px;
      border: 7px dashed black;
 }
 #profitofyoga{
@@ -52,5 +52,5 @@ body{
      background-color: deeppink;
  }
  #mycarousel img{
-     height: 550px;
+     height: 450px;
  }
